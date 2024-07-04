@@ -8,3 +8,4 @@ pinecone-client
 langchain_pinecone
 azure-search-documents
 azure-identity
+langchain_community
